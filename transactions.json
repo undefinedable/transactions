@@ -8,15 +8,6 @@
                 "amount": "1001"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
-        "INV-XXXX-XXXX": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-09-26 18:30:00",
-                "expiry_date": "2025-09-26 18:35:00",
-                "amount": "5000"
-            },
-            "key": "RandomKeyInvoice=="
         }
     }
 }

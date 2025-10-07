@@ -1,38 +1,11 @@
 {
     "transactions": {
-        "INV-202509261500001001": {
+        "@undefinedable": {
             "event": "payment.pending",
             "data": {
                 "created_date": "2025-09-26 15:00:00",
                 "expiry_date": "2025-09-26 15:05:00",
                 "amount": "1001"
-            },
-            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
-        "INV-11111jjjjjj": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-05 21:07",
-                "expiry_date": "2025-10-05 21:12",
-                "amount": 1000
-            },
-            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
-        "HELLOWORLD": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-06 18:05",
-                "expiry_date": "2025-10-06 18:10",
-                "amount": 1089
-            },
-            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
-        "XYZ": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-07 18:09",
-                "expiry_date": "2025-10-07 18:14",
-                "amount": 10095
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }

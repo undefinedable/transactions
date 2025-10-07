@@ -9,15 +9,6 @@
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         },
-        "UNDEFINEDABLE-1337": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-07 18:21",
-                "expiry_date": "2025-10-07 18:26",
-                "amount": "100026"
-            },
-            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
         "UNDEFINEDABLE-1": {
             "event": "payment.pending",
             "data": {

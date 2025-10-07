@@ -17,6 +17,15 @@
                 "amount": "100026"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "UNDEFINEDABLE-1": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-07 18:24",
+                "expiry_date": "2025-10-07 18:29",
+                "amount": "64"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

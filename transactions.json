@@ -1,14 +1,5 @@
 {
     "transactions": {
-        "@undefinedable": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-09-26 15:00:00",
-                "expiry_date": "2025-09-26 15:05:00",
-                "amount": "1001"
-            },
-            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
         "UNDEFINEDABLE-1": {
             "event": "payment.pending",
             "data": {

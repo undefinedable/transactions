@@ -1,7 +1,7 @@
 {
     "transactions": {
         "UNDEFINEDABLE-1": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2025-10-07 18:24",
                 "expiry_date": "2025-10-07 18:29",

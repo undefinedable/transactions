@@ -46,7 +46,7 @@
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         },
         "UNDEFINEDABLE-4": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2025-10-12 17:28",
                 "expiry_date": "2025-10-12 17:33",

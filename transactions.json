@@ -28,7 +28,7 @@
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         },
         "INVOICE-1": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2025-10-10 21:31",
                 "expiry_date": "2025-10-10 21:36",

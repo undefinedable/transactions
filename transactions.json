@@ -116,6 +116,15 @@
                 "amount": "1078"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "REFERENCE-ID": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-18 21:37",
+                "expiry_date": "2025-10-18 21:42",
+                "amount": "10068"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

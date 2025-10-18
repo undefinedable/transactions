@@ -53,6 +53,15 @@
                 "amount": "48"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "0000000000000000": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-18 10:22",
+                "expiry_date": "2025-10-18 10:27",
+                "amount": "57"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

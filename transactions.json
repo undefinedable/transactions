@@ -125,6 +125,15 @@
                 "amount": "10068"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "INV-20251018": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-18 23:06",
+                "expiry_date": "2025-10-18 23:11",
+                "amount": "2523"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

@@ -287,6 +287,15 @@
                 "amount": "10058"
             },
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
+        },
+        "10605105930196752": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-19 18:30",
+                "expiry_date": "2025-10-19 18:35",
+                "amount": "10041"
+            },
+            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         }
     }
 }

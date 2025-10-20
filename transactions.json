@@ -386,6 +386,15 @@
                 "amount": "1014"
             },
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
+        },
+        "INV-CFEFF10A": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-20 19:48",
+                "expiry_date": "2025-10-20 19:53",
+                "amount": "1024"
+            },
+            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         }
     }
 }

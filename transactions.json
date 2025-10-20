@@ -111,7 +111,7 @@
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         },
         "10605106634155144": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2025-10-20 20:54",
                 "expiry_date": "2025-10-20 20:59",

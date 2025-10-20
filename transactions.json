@@ -397,7 +397,7 @@
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         },
         "INV-EB74818C": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2025-10-20 19:55",
                 "expiry_date": "2025-10-20 20:00",

@@ -19,6 +19,16 @@
                 "paid_amount": "1001"
             },
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
+        },
+        "INV-379579D7": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-20 20:24",
+                "expiry_date": "2025-10-20 20:29",
+                "amount": "1000",
+                "paid_amount": "1044"
+            },
+            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         }
     }
 }

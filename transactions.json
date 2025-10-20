@@ -11,7 +11,7 @@
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         },
         "INV-13DF966E": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2025-10-20 20:18",
                 "expiry_date": "2025-10-20 20:23",

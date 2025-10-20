@@ -31,7 +31,7 @@
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         },
         "INV-1743DA42": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2025-10-20 20:26",
                 "expiry_date": "2025-10-20 20:31",

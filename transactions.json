@@ -1,122 +1,12 @@
 {
     "transactions": {
-        "UNDEFINEDABLE-1": {
+        "@undefinedable": {
             "event": "payment.expired",
             "data": {
                 "created_date": "2025-10-07 18:24",
                 "expiry_date": "2025-10-07 18:29",
-                "amount": "64",
-                "paid_amount": "69"
-            },
-            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
-        },
-        "INV-13DF966E": {
-            "event": "payment.failed",
-            "data": {
-                "created_date": "2025-10-20 20:18",
-                "expiry_date": "2025-10-20 20:23",
                 "amount": "1000",
                 "paid_amount": "1001"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "INV-379579D7": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-20 20:24",
-                "expiry_date": "2025-10-20 20:29",
-                "amount": "1000",
-                "paid_amount": "1044"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "INV-1743DA42": {
-            "event": "payment.failed",
-            "data": {
-                "created_date": "2025-10-20 20:26",
-                "expiry_date": "2025-10-20 20:31",
-                "amount": "1000",
-                "paid_amount": "1029"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "INV-1005BB41": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-20 20:35",
-                "expiry_date": "2025-10-20 20:40",
-                "amount": "1000",
-                "paid_amount": "1061"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "INV-A74BF692": {
-            "event": "payment.failed",
-            "data": {
-                "created_date": "2025-10-20 20:41",
-                "expiry_date": "2025-10-20 20:46",
-                "amount": "10000",
-                "paid_amount": "10052"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "ZLABS-10605133667164824": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-20 20:43",
-                "expiry_date": "2025-10-20 20:48",
-                "amount": "10000",
-                "paid_amount": "10072"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "ZLABS-607": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-20 20:44",
-                "expiry_date": "2025-10-20 20:49",
-                "amount": "10000",
-                "paid_amount": "10044"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "ZLABS-332607021167768": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-20 20:45",
-                "expiry_date": "2025-10-20 20:50",
-                "amount": "10000",
-                "paid_amount": "10032"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "ZLABS-332607131472415": {
-            "event": "payment.pending",
-            "data": {
-                "created_date": "2025-10-20 20:45",
-                "expiry_date": "2025-10-20 20:50",
-                "amount": "10000",
-                "paid_amount": "10008"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "10605143250714052": {
-            "event": "payment.failed",
-            "data": {
-                "created_date": "2025-10-20 20:46",
-                "expiry_date": "2025-10-20 20:51",
-                "amount": "10000",
-                "paid_amount": "10075"
-            },
-            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
-        },
-        "10605106634155144": {
-            "event": "payment.failed",
-            "data": {
-                "created_date": "2025-10-20 20:54",
-                "expiry_date": "2025-10-20 20:59",
-                "amount": "1000",
-                "paid_amount": "1098"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }

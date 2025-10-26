@@ -171,7 +171,7 @@
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         },
         "ref-1761445353": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2025-10-26 09:22",
                 "expiry_date": "2025-10-26 09:32",

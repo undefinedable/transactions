@@ -249,6 +249,16 @@
                 "paid_amount": "10018"
             },
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
+        },
+        "BXX": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-10-27 09:47",
+                "expiry_date": "2025-10-27 09:52",
+                "amount": "1000",
+                "paid_amount": "1050"
+            },
+            "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
         }
     }
 }

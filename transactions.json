@@ -349,6 +349,16 @@
                 "paid_amount": "10020"
             },
             "key": "PUhJS2kMGv73ZBGZZSdlPUqOWrZJ/J9mZVMlR2mbEXc="
+        },
+        "s": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-09 16:46",
+                "expiry_date": "2025-11-09 16:51",
+                "amount": "1000",
+                "paid_amount": "1048"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

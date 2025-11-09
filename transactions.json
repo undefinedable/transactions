@@ -319,6 +319,16 @@
                 "paid_amount": "1000085"
             },
             "key": "KPEC9kmicm9G6OJ2+hloBAY9/LNeCweA5zVDbwU0hu0="
+        },
+        "TRX1": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-09 16:03",
+                "expiry_date": "2025-11-09 16:08",
+                "amount": "1000",
+                "paid_amount": "1037"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

@@ -321,7 +321,7 @@
             "key": "KPEC9kmicm9G6OJ2+hloBAY9/LNeCweA5zVDbwU0hu0="
         },
         "TRX1": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2025-11-09 16:03",
                 "expiry_date": "2025-11-09 16:08",

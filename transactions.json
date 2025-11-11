@@ -540,6 +540,16 @@
                 "paid_amount": "10094"
             },
             "key": "KPEC9kmicm9G6OJ2+hloBAY9/LNeCweA5zVDbwU0hu0="
+        },
+        "SSS": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-11 17:48",
+                "expiry_date": "2025-11-11 17:53",
+                "amount": "1000",
+                "paid_amount": "1049"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

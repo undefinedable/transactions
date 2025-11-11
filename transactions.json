@@ -599,7 +599,7 @@
             "event": "payment.pending",
             "data": {
                 "created_date": "2025-11-11 20:44",
-                "expiry_date": "2025-11-11 21:04",
+                "expiry_date": "2025-11-11 21:59",
                 "amount": "1000",
                 "paid_amount": "1005",
                 "unique_amount": "5"

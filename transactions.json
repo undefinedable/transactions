@@ -489,6 +489,16 @@
                 "paid_amount": "1053"
             },
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
+        },
+        "HXS": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-11 16:40",
+                "expiry_date": "2025-11-11 16:45",
+                "amount": "1000",
+                "paid_amount": "1046"
+            },
+            "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         }
     }
 }

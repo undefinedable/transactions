@@ -561,6 +561,17 @@
                 "unique_amount": "64"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "KAIII001": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-11 18:32",
+                "expiry_date": "2025-11-11 18:37",
+                "amount": "50000",
+                "paid_amount": "50024",
+                "unique_amount": "24"
+            },
+            "key": "KPEC9kmicm9G6OJ2+hloBAY9/LNeCweA5zVDbwU0hu0="
         }
     }
 }

@@ -530,6 +530,16 @@
                 "unique_amount": "9"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "ORD001": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-11 17:34",
+                "expiry_date": "2025-11-11 17:39",
+                "amount": "10000",
+                "paid_amount": "10094"
+            },
+            "key": "KPEC9kmicm9G6OJ2+hloBAY9/LNeCweA5zVDbwU0hu0="
         }
     }
 }

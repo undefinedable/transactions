@@ -479,6 +479,16 @@
                 "paid_amount": "1007"
             },
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
+        },
+        "RIZZ-8271": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-11 08:28",
+                "expiry_date": "2025-11-11 08:33",
+                "amount": "1000",
+                "paid_amount": "1053"
+            },
+            "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         }
     }
 }

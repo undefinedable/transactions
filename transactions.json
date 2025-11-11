@@ -550,6 +550,17 @@
                 "paid_amount": "1049"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "BV": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-11 17:52",
+                "expiry_date": "2025-11-11 17:57",
+                "amount": "1000",
+                "paid_amount": "1064",
+                "unique_amount": "64"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

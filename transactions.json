@@ -627,6 +627,17 @@
                 "unique_amount": "44"
             },
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
+        },
+        "ZEPPELIN-2": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-11-15 12:52",
+                "expiry_date": "2025-11-15 12:57",
+                "amount": "1000",
+                "paid_amount": "1039",
+                "unique_amount": "39"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

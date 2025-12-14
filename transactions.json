@@ -1212,7 +1212,7 @@
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         },
         "1024392011851663600": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2025-12-14 18:29",
                 "expiry_date": "2025-12-14 18:34",

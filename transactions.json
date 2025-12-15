@@ -1751,7 +1751,7 @@
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         },
         "1024421413603089200": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2025-12-15 16:23",
                 "expiry_date": "2025-12-15 16:28",

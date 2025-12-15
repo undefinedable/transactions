@@ -2233,6 +2233,17 @@
                 "unique_amount": "44"
             },
             "key": "FKvXGCksMcrqDv1q5uIr4QWXNsjzsQDaAjxmEUuR1Ro="
+        },
+        "KIYO-30D-344752": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-12-16 05:47",
+                "expiry_date": "2025-12-16 05:57",
+                "amount": "60500",
+                "paid_amount": "60573",
+                "unique_amount": "73"
+            },
+            "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         }
     }
 }

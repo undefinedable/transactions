@@ -2189,6 +2189,17 @@
                 "unique_amount": "32"
             },
             "key": "FKvXGCksMcrqDv1q5uIr4QWXNsjzsQDaAjxmEUuR1Ro="
+        },
+        "KIYO-30D-924724": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-12-16 03:32",
+                "expiry_date": "2025-12-16 03:42",
+                "amount": "60500",
+                "paid_amount": "60510",
+                "unique_amount": "10"
+            },
+            "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         }
     }
 }

@@ -2235,7 +2235,7 @@
             "key": "FKvXGCksMcrqDv1q5uIr4QWXNsjzsQDaAjxmEUuR1Ro="
         },
         "KIYO-30D-344752": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2025-12-16 05:47",
                 "expiry_date": "2025-12-16 05:57",

@@ -2114,7 +2114,7 @@
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         },
         "KIYO-7D-230158": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2025-12-16 00:27",
                 "expiry_date": "2025-12-16 00:37",

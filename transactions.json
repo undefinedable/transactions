@@ -2499,7 +2499,7 @@
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         },
         "KIYO-7D-026769": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2025-12-16 20:10",
                 "expiry_date": "2025-12-16 20:20",

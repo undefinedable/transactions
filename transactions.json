@@ -2851,7 +2851,7 @@
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         },
         "KIYO-7D-101096": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2025-12-18 23:52",
                 "expiry_date": "2025-12-19 00:02",

@@ -2981,6 +2981,17 @@
                 "unique_amount": "69"
             },
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
+        },
+        "KIYO-7D-181454": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-12-19 15:47",
+                "expiry_date": "2025-12-19 15:57",
+                "amount": "19300",
+                "paid_amount": "19361",
+                "unique_amount": "61"
+            },
+            "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         }
     }
 }

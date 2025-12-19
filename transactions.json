@@ -3135,6 +3135,17 @@
                 "unique_amount": "74"
             },
             "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
+        },
+        "KIYO-30D-360544": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2025-12-19 21:44",
+                "expiry_date": "2025-12-19 21:54",
+                "amount": "60500",
+                "paid_amount": "60508",
+                "unique_amount": "8"
+            },
+            "key": "CBq69iVpGygZNK/Fph3Y9CvjPyJqPJK8LuoUllfIS5U="
         }
     }
 }

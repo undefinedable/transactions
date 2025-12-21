@@ -3269,7 +3269,7 @@
             "key": "FKvXGCksMcrqDv1q5uIr4QWXNsjzsQDaAjxmEUuR1Ro="
         },
         "208139813862211620": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2025-12-21 07:12",
                 "expiry_date": "2025-12-21 07:17",

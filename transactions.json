@@ -3575,6 +3575,17 @@
                 "unique_amount": "62"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "ZHX": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-01-14 19:31",
+                "expiry_date": "2026-01-14 19:36",
+                "amount": "1000",
+                "paid_amount": "1045",
+                "unique_amount": "45"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

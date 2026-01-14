@@ -3648,8 +3648,8 @@
                 "created_date": "2026-01-14 23:00",
                 "expiry_date": "2026-01-14 23:05",
                 "amount": "100000",
-                "paid_amount": "100040",
-                "unique_amount": "40"
+                "paid_amount": "100064",
+                "unique_amount": "64"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }

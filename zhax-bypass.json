@@ -1,3 +1,7 @@
 {
-  "@undefinedable": 1337
+  "@undefinedable": {
+    "email": "zhax@gmail.com",
+    "password": "ZHAX",
+    "expiry": 1337
+  }
 }

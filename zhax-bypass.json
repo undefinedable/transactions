@@ -1,9 +1,14 @@
 {
-  "data": {
-    "@undefinedable": {
-      "email": "zhax@gmail.com",
-      "password": "ZHAX",
-      "expiry": 1337
+    "data": {
+        "@undefinedable": {
+            "email": "zhax@gmail.com",
+            "password": "ZHAX",
+            "expiry": 1337
+        },
+        "UID123": {
+            "email": "zhax@gmail.com",
+            "password": "ZHAX",
+            "expiry": 1768737435
+        }
     }
-  }
 }

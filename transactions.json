@@ -651,7 +651,7 @@
             "key": "I825yBsBIxGWkIVuOM1GR5ZzNqcZMIsfF6myyhefxe0="
         },
         "1": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2025-11-15 23:48",
                 "expiry_date": "2025-11-15 23:53",

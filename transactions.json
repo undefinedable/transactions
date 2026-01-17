@@ -4070,6 +4070,17 @@
                 "unique_amount": "99"
             },
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
+        },
+        "ZHAX-0123": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-01-17 16:46",
+                "expiry_date": "2026-01-17 16:51",
+                "amount": "12345",
+                "paid_amount": "12357",
+                "unique_amount": "12"
+            },
+            "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         }
     }
 }

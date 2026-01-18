@@ -4270,7 +4270,7 @@
             "key": "EoBhVzzH7txoaHh+bsXFjfRnAWN5x9It6ZYA3AWKgvs="
         },
         "ZHAX-1768717707268": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-01-18 13:28",
                 "expiry_date": "2026-01-18 13:33",

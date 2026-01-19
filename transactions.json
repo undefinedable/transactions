@@ -4512,7 +4512,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "1209605165190477600": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-01-19 18:05",
                 "expiry_date": "2026-01-19 18:10",

@@ -4831,7 +4831,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "1241037804612996600": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-01-21 20:16",
                 "expiry_date": "2026-01-21 20:21",

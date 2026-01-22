@@ -4950,6 +4950,17 @@
                 "unique_amount": "88"
             },
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
+        },
+        "588176705055704400": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-01-22 16:38",
+                "expiry_date": "2026-01-22 16:43",
+                "amount": "195000",
+                "paid_amount": "195057",
+                "unique_amount": "57"
+            },
+            "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         }
     }
 }

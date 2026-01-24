@@ -5249,7 +5249,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "705227285223988600": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-01-24 22:05",
                 "expiry_date": "2026-01-24 22:10",

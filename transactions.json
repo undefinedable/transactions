@@ -5513,7 +5513,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "1212677254978003000": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-01-31 07:07",
                 "expiry_date": "2026-01-31 07:12",

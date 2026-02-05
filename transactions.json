@@ -5964,7 +5964,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "1431130478520727300": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-02-05 17:58",
                 "expiry_date": "2026-02-05 18:03",

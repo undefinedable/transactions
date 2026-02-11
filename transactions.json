@@ -6248,6 +6248,17 @@
                 "unique_amount": "66"
             },
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
+        },
+        "KIYO-7D-700567": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-02-11 22:45",
+                "expiry_date": "2026-02-11 22:55",
+                "amount": "38000",
+                "paid_amount": "38017",
+                "unique_amount": "17"
+            },
+            "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         }
     }
 }

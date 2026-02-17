@@ -6382,7 +6382,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "KIYO-7D-949484": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-02-17 22:39",
                 "expiry_date": "2026-02-17 22:49",

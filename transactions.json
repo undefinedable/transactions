@@ -6415,7 +6415,7 @@
             "key": "bRoto2Pz328E7OiT4ZM0HhlPTq+Ysw7qI01ivPXIPxs="
         },
         "KIYO-7D-493160": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-02-22 16:49",
                 "expiry_date": "2026-02-22 16:59",

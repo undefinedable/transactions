@@ -6624,7 +6624,7 @@
             "key": "O3otJdcrWgCDdUyCfc9HaT9Ldqts2kpq7NUJ0uDM8ew="
         },
         "872255622239631": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-02-28 12:13",
                 "expiry_date": "2026-02-28 12:28",

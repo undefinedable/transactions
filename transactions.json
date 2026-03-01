@@ -6525,7 +6525,7 @@
             "key": "FKvXGCksMcrqDv1q5uIr4QWXNsjzsQDaAjxmEUuR1Ro="
         },
         "KIYO-7D-773165": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-02-27 20:25",
                 "expiry_date": "2026-02-27 20:35",

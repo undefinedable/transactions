@@ -6756,7 +6756,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "ZPL_1201790265493569579_1773059254146": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-03-09 19:27:39",
                 "expiry_date": "2026-03-09 19:37:39",

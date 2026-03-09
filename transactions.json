@@ -6732,6 +6732,17 @@
                 "unique_amount": "83"
             },
             "key": "O3otJdcrWgCDdUyCfc9HaT9Ldqts2kpq7NUJ0uDM8ew="
+        },
+        "sky122": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-03-09 15:34:50",
+                "expiry_date": "2026-03-09 15:39:50",
+                "amount": "1000",
+                "paid_amount": "1014",
+                "unique_amount": "14"
+            },
+            "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         }
     }
 }

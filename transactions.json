@@ -6787,6 +6787,17 @@
                 "unique_amount": "33"
             },
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
+        },
+        "SKYNA_1773221012605_ryzen_pkt02": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-03-11 16:23:39",
+                "expiry_date": "2026-03-11 16:33:39",
+                "amount": "31800",
+                "paid_amount": "31890",
+                "unique_amount": "90"
+            },
+            "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         }
     }
 }

@@ -6833,7 +6833,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "SKYNA_1773372058648_bot_pkt02": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-03-13 10:21:05",
                 "expiry_date": "2026-03-13 10:31:05",

@@ -6866,7 +6866,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "SKYNA_RENEW_1773825278782_396": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-03-18 16:14:44",
                 "expiry_date": "2026-03-18 16:24:44",

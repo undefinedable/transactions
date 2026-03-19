@@ -6877,7 +6877,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "SKYNA_1773902664300_budget_pkt001": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-03-19 13:44:30",
                 "expiry_date": "2026-03-19 13:54:30",

@@ -6963,6 +6963,17 @@
                 "unique_amount": "50"
             },
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
+        },
+        "SKYNA_1774018657589_bot_pkt05": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-03-20 21:57:42",
+                "expiry_date": "2026-03-20 22:07:42",
+                "amount": "16150",
+                "paid_amount": "16203",
+                "unique_amount": "53"
+            },
+            "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         }
     }
 }

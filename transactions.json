@@ -6932,7 +6932,7 @@
             "key": "VoumcyIghNy//rrdVE9WnT9VwPpUqTJmh4ug6jdE+TI="
         },
         "1042585389175440900": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-03-20 10:48:17",
                 "expiry_date": "2026-03-20 10:53:17",

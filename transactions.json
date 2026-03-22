@@ -6987,7 +6987,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "SKYNA_WEB_1774158822078_1": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-03-22 12:53:48",
                 "expiry_date": "2026-03-22 13:03:48",

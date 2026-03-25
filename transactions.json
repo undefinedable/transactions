@@ -7174,7 +7174,7 @@
             "key": "7Dj+zp0qMGfiaDKRB16buuDKOzLvhrLHlnH2bA01Ojc="
         },
         "SKYNA_1774411969286_budget_pkt04": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-03-25 11:12:55",
                 "expiry_date": "2026-03-25 11:22:55",

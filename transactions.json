@@ -7229,7 +7229,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "SKYNA_1774703163267_ryzen_pkt01": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-03-28 20:06:09",
                 "expiry_date": "2026-03-28 20:16:09",

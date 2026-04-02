@@ -7273,7 +7273,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "PGW-MNI33LPU-E4470F": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-03 06:06:43",
                 "expiry_date": "2026-04-03 06:16:43",

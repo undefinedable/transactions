@@ -7328,7 +7328,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "VLP-MNIIX4SB-1D2D9A": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-03 13:29:34",
                 "expiry_date": "2026-04-03 13:39:34",

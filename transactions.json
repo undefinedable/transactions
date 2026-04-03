@@ -7372,7 +7372,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "VEL-MNJG1645-BD8015": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-04 04:56:31",
                 "expiry_date": "2026-04-04 05:06:31",

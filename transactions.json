@@ -7350,7 +7350,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VLP-MNIYW6PK-C96DF6": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-03 20:56:44",
                 "expiry_date": "2026-04-03 21:06:44",

@@ -7449,7 +7449,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "VEL-MNJQM7SS-19C06B": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-04 09:52:49",
                 "expiry_date": "2026-04-04 10:02:49",

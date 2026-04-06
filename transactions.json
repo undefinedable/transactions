@@ -8318,7 +8318,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MNMU6VR4-269CA1": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-06 13:56:16",
                 "expiry_date": "2026-04-06 14:06:16",

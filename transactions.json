@@ -8395,7 +8395,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MNN64HRW-6D363D": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-06 19:30:20",
                 "expiry_date": "2026-04-06 19:40:20",

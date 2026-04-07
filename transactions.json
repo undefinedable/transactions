@@ -8747,7 +8747,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MNOCVSLW-6B90DA": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-07 15:27:13",
                 "expiry_date": "2026-04-07 15:37:13",

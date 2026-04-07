@@ -8813,7 +8813,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "SKYNA_WEB_1775568131759_1": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-07 20:22:17",
                 "expiry_date": "2026-04-07 20:32:17",

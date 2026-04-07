@@ -8637,7 +8637,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MNO3TSD6-77C3ED": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-07 11:13:42",
                 "expiry_date": "2026-04-07 11:23:42",

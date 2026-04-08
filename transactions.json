@@ -8857,7 +8857,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "VEL-MNPK53HN-EB768E": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-08 11:38:10",
                 "expiry_date": "2026-04-08 11:48:10",

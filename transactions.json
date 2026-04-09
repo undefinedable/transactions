@@ -9077,7 +9077,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MNQTTQHM-F98E5E": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-09 08:57:20",
                 "expiry_date": "2026-04-09 09:07:20",

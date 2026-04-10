@@ -9649,7 +9649,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "FATHER_1775806745901": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-04-10 14:39:12",
                 "expiry_date": "2026-04-10 14:49:12",

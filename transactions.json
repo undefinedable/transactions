@@ -10221,7 +10221,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "VEL-MNUFTN0F-A86E59": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-11 21:36:08",
                 "expiry_date": "2026-04-11 21:46:08",

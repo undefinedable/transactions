@@ -10320,7 +10320,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MNUS30W2-6A41F5": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-12 03:19:35",
                 "expiry_date": "2026-04-12 03:29:35",

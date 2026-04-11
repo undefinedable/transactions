@@ -10122,7 +10122,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "VEL-MNUALJA8-4D82E6": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-11 19:09:58",
                 "expiry_date": "2026-04-11 19:19:58",

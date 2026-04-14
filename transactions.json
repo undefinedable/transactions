@@ -10507,7 +10507,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "FATHER_1776197836316": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-15 03:17:23",
                 "expiry_date": "2026-04-15 03:27:23",

@@ -10430,7 +10430,7 @@
             "key": "N54/6AO1lYAGW1RvZpOrHS65ksx7JPQ54Pt1hML+nD8="
         },
         "SKYNA_WEB_1776129840083_11": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-14 08:24:06",
                 "expiry_date": "2026-04-14 08:34:06",

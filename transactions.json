@@ -10639,7 +10639,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "STARMQDYY1776274300036": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-16 00:31:46",
                 "expiry_date": "2026-04-16 00:36:46",

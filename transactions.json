@@ -10551,7 +10551,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "DEP1776259675657": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-15 20:27:57",
                 "expiry_date": "2026-04-15 20:32:57",

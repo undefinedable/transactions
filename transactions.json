@@ -10628,7 +10628,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "STARMQDYY1776272843933": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-16 00:07:25",
                 "expiry_date": "2026-04-16 00:12:25",

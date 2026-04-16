@@ -10617,7 +10617,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "SKYNA_WEB_1776272327150_15": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-15 23:58:48",
                 "expiry_date": "2026-04-16 00:08:48",

@@ -10749,7 +10749,7 @@
             "key": "DkgRRXyxXg1DCBFzWGKVcNHt6pA1dE8rGGTuPP87XEo="
         },
         "1024362854392630900": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-16 15:42:56",
                 "expiry_date": "2026-04-16 15:47:56",

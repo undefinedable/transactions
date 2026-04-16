@@ -10771,7 +10771,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "FATHER_1776342541387": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-04-16 19:29:07",
                 "expiry_date": "2026-04-16 19:39:07",

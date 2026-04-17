@@ -10903,7 +10903,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "STARMQDYY-5318": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-17 22:05:13",
                 "expiry_date": "2026-04-18 03:05:13",

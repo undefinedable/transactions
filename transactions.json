@@ -10892,7 +10892,7 @@
             "key": "ZBG4D3ID8nEpaWVHhLXrhfow0Tb+8tFEwuyXcAAA3mY="
         },
         "STARMQDYY-8387": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-17 22:01:13",
                 "expiry_date": "2026-04-18 03:01:13",

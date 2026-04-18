@@ -11013,7 +11013,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "SKYNA_WEB_1776548773684_23": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-04-19 04:46:19",
                 "expiry_date": "2026-04-19 04:56:19",

@@ -10969,7 +10969,7 @@
             "key": "OLX656IIvO0V/SgUAxZkPXW8C67SOCZmzV2hXOnX+Sc="
         },
         "STARMQDYY-1674": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-18 13:01:55",
                 "expiry_date": "2026-04-18 18:01:55",

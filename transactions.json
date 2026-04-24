@@ -11123,7 +11123,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "TOP17770112649386852021112": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-24 13:14:26",
                 "expiry_date": "2026-04-24 13:19:26",

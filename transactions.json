@@ -11893,7 +11893,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "TOP17773960624878474051991696309003": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-29 00:07:44",
                 "expiry_date": "2026-04-29 00:12:44",

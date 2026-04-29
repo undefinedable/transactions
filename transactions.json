@@ -12476,7 +12476,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "FATHER_1777472437074": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-29 21:20:39",
                 "expiry_date": "2026-04-29 21:30:39",

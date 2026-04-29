@@ -12465,7 +12465,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOK4SUD2-FB83AB": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-04-29 21:09:38",
                 "expiry_date": "2026-04-29 21:19:38",

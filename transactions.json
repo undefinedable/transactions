@@ -12421,7 +12421,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOK0B3MA-53355D": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-29 19:03:50",
                 "expiry_date": "2026-04-29 19:13:50",

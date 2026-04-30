@@ -13070,7 +13070,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOL5WARU-2DB46F": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-04-30 14:28:20",
                 "expiry_date": "2026-04-30 14:38:20",

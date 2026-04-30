@@ -13598,7 +13598,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOLSM4QM-DF7EDC": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-05-01 01:04:00",
                 "expiry_date": "2026-05-01 01:14:00",

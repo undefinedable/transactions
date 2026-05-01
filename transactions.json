@@ -14467,7 +14467,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "OTD17776458371662034T93": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-05-01 21:30:45",
                 "expiry_date": "2026-05-01 21:35:45",

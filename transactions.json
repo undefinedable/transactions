@@ -15127,7 +15127,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOR0F89C-AC009C": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-04 16:41:25",
                 "expiry_date": "2026-05-04 16:51:25",

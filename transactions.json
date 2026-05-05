@@ -15512,7 +15512,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOS2VY5C-0F25DF": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-05 10:38:11",
                 "expiry_date": "2026-05-05 10:48:11",

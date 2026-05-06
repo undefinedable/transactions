@@ -15985,7 +15985,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "ORD17780272892136852021112900079006": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-05-06 07:28:12",
                 "expiry_date": "2026-05-06 07:33:12",

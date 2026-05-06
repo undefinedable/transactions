@@ -16117,7 +16117,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "TOP17780292990011157986641337388005": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-06 08:01:41",
                 "expiry_date": "2026-05-06 08:06:41",

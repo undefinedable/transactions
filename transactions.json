@@ -17052,7 +17052,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOVHX8O2-1376D4": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-07 20:03:58",
                 "expiry_date": "2026-05-07 20:13:58",

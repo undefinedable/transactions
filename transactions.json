@@ -16854,7 +16854,7 @@
             "key": "9wd9f55eb2f82e0JrUAKcQXn7H211eDz0DuAVT2GyKA="
         },
         "VEL-MOV0F5BL-3678E8": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-07 11:52:42",
                 "expiry_date": "2026-05-07 12:02:42",

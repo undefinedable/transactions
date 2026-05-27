@@ -17459,7 +17459,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-F934D100": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-27 08:35:38",
                 "expiry_date": "2026-05-27 13:35:38",

@@ -17426,7 +17426,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "PREM-3FEC22CB": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-05-27 07:25:59",
                 "expiry_date": "2026-05-27 12:25:59",

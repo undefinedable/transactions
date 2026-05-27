@@ -17481,7 +17481,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-79CB6A6A": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-27 08:53:05",
                 "expiry_date": "2026-05-27 13:53:05",

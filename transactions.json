@@ -17479,6 +17479,17 @@
                 "unique_amount": "47"
             },
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
+        },
+        "DIP-79CB6A6A": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-05-27 08:53:05",
+                "expiry_date": "2026-05-27 13:53:05",
+                "amount": "1000",
+                "paid_amount": "1000",
+                "unique_amount": "0"
+            },
+            "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         }
     }
 }

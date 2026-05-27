@@ -17492,7 +17492,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-511FCEB9": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-05-27 10:15:42",
                 "expiry_date": "2026-05-27 15:15:42",

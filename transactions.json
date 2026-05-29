@@ -17525,7 +17525,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-1AB2436F": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-05-29 11:30:19",
                 "expiry_date": "2026-05-29 16:30:19",

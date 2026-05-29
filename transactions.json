@@ -17514,7 +17514,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-DB379C76": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-29 08:02:12",
                 "expiry_date": "2026-05-29 13:02:12",

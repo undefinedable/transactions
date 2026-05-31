@@ -17602,7 +17602,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-B4733B18": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-05-31 14:28:26",
                 "expiry_date": "2026-05-31 19:28:26",

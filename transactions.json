@@ -17624,7 +17624,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-92A98117": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-06-01 09:52:32",
                 "expiry_date": "2026-06-01 14:52:32",

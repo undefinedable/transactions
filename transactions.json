@@ -17633,6 +17633,17 @@
                 "unique_amount": "19"
             },
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
+        },
+        "DIP-BBC7F39F": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-01 19:52:08",
+                "expiry_date": "2026-06-02 00:52:08",
+                "amount": "5000",
+                "paid_amount": "5047",
+                "unique_amount": "47"
+            },
+            "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         }
     }
 }

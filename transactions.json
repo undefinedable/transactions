@@ -17646,7 +17646,7 @@
             "key": "BXuSEXHA/HnPQYAnJ6fcA8A+S4lA8DzJIrFomq6XrVk="
         },
         "DIP-42B86EA0": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-06-01 20:55:30",
                 "expiry_date": "2026-06-02 01:55:30",

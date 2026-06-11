@@ -17734,7 +17734,7 @@
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         },
         "sds": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-06-11 14:27:58",
                 "expiry_date": "2026-06-11 14:32:58",

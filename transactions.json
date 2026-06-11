@@ -17765,6 +17765,17 @@
                 "unique_amount": "84"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "ORD-20260611-GW8735": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-12 00:53:13",
+                "expiry_date": "2026-06-12 00:58:13",
+                "amount": "129000",
+                "paid_amount": "129090",
+                "unique_amount": "90"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

@@ -17732,6 +17732,17 @@
                 "unique_amount": "20"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "sds": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-11 14:27:58",
+                "expiry_date": "2026-06-11 14:32:58",
+                "amount": "1000",
+                "paid_amount": "1090",
+                "unique_amount": "90"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

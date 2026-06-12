@@ -17798,6 +17798,17 @@
                 "unique_amount": "0"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "BZP-20260612-59XS2J": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-12 19:46:15",
+                "expiry_date": "2026-06-12 19:51:15",
+                "amount": "50000",
+                "paid_amount": "50056",
+                "unique_amount": "56"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

@@ -17787,6 +17787,17 @@
                 "unique_amount": "63"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "BZP-20260612-Z40BX1": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-12 09:02:11",
+                "expiry_date": "2026-06-12 09:07:11",
+                "amount": "114000",
+                "paid_amount": "114000",
+                "unique_amount": "0"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

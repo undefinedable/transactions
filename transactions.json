@@ -17811,7 +17811,7 @@
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         },
         "BZP-20260613-W9V2LG": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-06-13 10:02:56",
                 "expiry_date": "2026-06-13 10:07:56",

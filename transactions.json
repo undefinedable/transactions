@@ -17888,7 +17888,7 @@
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         },
         "BZP-20260614-NC03MR": {
-            "event": "payment.pending",
+            "event": "payment.failed",
             "data": {
                 "created_date": "2026-06-14 10:25:32",
                 "expiry_date": "2026-06-14 10:30:32",

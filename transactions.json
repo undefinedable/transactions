@@ -17985,6 +17985,17 @@
                 "unique_amount": "35"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "BZP-20260614-AYOLQP": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-14 22:05:13",
+                "expiry_date": "2026-06-14 22:10:13",
+                "amount": "10000",
+                "paid_amount": "10087",
+                "unique_amount": "87"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

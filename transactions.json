@@ -17963,6 +17963,17 @@
                 "unique_amount": "34"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "BZP-20260614-SJZAVY": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-14 22:03:54",
+                "expiry_date": "2026-06-14 22:08:54",
+                "amount": "10000",
+                "paid_amount": "10017",
+                "unique_amount": "17"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

@@ -17921,7 +17921,7 @@
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         },
         "BZP-20260614-NTWMCG": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-06-14 11:36:33",
                 "expiry_date": "2026-06-14 11:41:33",

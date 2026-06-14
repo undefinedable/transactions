@@ -17886,6 +17886,17 @@
                 "unique_amount": "70"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "BZP-20260614-NC03MR": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-14 10:25:32",
+                "expiry_date": "2026-06-14 10:30:32",
+                "amount": "50000",
+                "paid_amount": "50013",
+                "unique_amount": "13"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

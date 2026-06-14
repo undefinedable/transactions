@@ -17875,6 +17875,17 @@
                 "unique_amount": "45"
             },
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
+        },
+        "BZP-20260614-VK0FIU": {
+            "event": "payment.pending",
+            "data": {
+                "created_date": "2026-06-14 10:21:25",
+                "expiry_date": "2026-06-14 10:26:25",
+                "amount": "50000",
+                "paid_amount": "50070",
+                "unique_amount": "70"
+            },
+            "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         }
     }
 }

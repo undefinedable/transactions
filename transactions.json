@@ -17943,7 +17943,7 @@
             "key": "pyGzZ6WYqOTne323W8mB9umar+osgZbTYVDIaDkGaBE="
         },
         "BZP-20260614-BQIKBU": {
-            "event": "payment.pending",
+            "event": "payment.expired",
             "data": {
                 "created_date": "2026-06-14 17:21:12",
                 "expiry_date": "2026-06-14 17:26:12",

@@ -18064,7 +18064,7 @@
             "key": "k4ANefT0JPXp39d64As2nHjx7luhd+ZOQFj/9SBtZ/M="
         },
         "TOP-7198": {
-            "event": "payment.pending",
+            "event": "payment.success",
             "data": {
                 "created_date": "2026-06-28 10:26:42",
                 "expiry_date": "2026-06-28 10:36:42",
